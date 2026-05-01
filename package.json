@@ -1,0 +1,27 @@
+{
+  "name": "investiq",
+  "private": true,
+  "version": "0.1.0",
+  "description": "InvestIQ social investing platform monorepo",
+  "packageManager": "bun@1.1.38",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "concurrently -n api,mobile \"bun run --filter @investiq/api dev\" \"bun run --filter @investiq/mobile dev\"",
+    "dev:api": "bun run --filter @investiq/api dev",
+    "dev:mobile": "bun run --filter @investiq/mobile dev",
+    "build": "bun run --workspaces build",
+    "typecheck": "bun run --workspaces typecheck",
+    "lint": "bun run --workspaces lint",
+    "test": "bun run --workspaces test",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "prettier": "^3.3.3",
+    "typescript": "^5.6.3"
+  }
+}

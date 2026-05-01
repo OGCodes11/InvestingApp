@@ -121,6 +121,31 @@ The app is currently in **prototype stage** — all screens are designed and int
 
 ---
 
+## Repository Foundation
+
+The repository now uses a monorepo layout:
+
+- `apps/mobile` — Expo/React Native mobile client
+- `apps/api` — Node.js + Express API
+- `packages/shared` — shared TypeScript contracts and schemas
+- `docs` — product and engineering specifications
+
+### Local development
+
+1. Copy `.env.example` to `.env`
+2. Start local database:
+   - `docker compose up -d`
+3. Install dependencies:
+   - `bun install`
+4. Run both app and API:
+   - `bun run dev`
+
+API health check endpoint:
+
+- `GET http://localhost:4000/api/v1/health`
+
+---
+
 ## Get Involved
 
 Interested in investing, building, or partnering? Reach out — we're looking for:
