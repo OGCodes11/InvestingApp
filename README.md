@@ -30,6 +30,8 @@ Whether you're just starting out or already managing a serious portfolio, Invest
 - Topics include: how the stock market works, building your first portfolio, ETFs vs stocks, reading charts, fundamental analysis, macro investing, risk management, and more
 - Each course has video lessons, progress tracking, and a completion badge
 - No finance degree required — everything is explained in plain language
+- daily 1v1s: challenge a schoolmate to a daily quiz (if you win, you can go up in the leaderboard or you get points to get another badge
+- there will also be courses/videos on what to do before investing (openeing up a HYSA, checkings account, emergency fund, budgeting, etc.) 
 
 ### 💬 Direct Messaging
 - Message any investor directly to ask questions, share ideas, or collaborate
@@ -86,6 +88,28 @@ InvestIQ has a unique **earn-your-verification** model. Unlike other platforms w
 - **Casual investors** who want to learn from people who are actually doing it
 - **Experienced investors** who want to share their strategies and build an audience
 - **Anyone** who is tired of getting financial advice from random corners of the internet with no accountability
+
+Free trial for 1 month: after, you can pay $3.99/m 
+
+perks w/ premium: 
+- unlimited courses/day
+- unlimited access to stock market news
+- dividend tracking
+- unlock unlimited quizzes and investing courses to boost your profile and get on the right side of investing as well as
+- better AI model where you insert your portfolio (AI will give projections, recommdend stocks to sell, buy, what industry to allocate more in based on your risk managemnt and age that was included in the onboarding
+
+
+  frontend:
+  - sing in: with email
+  - onbaording:
+    Get real advice from actual verified profiles to take your investment portfolio to the next level.
+ Tired from going on instagram, reddit, or X and seeing people give you bogus financial advice? Have you been looking for a community of investors you can interact with, both real, verified investors and those at the same level as you? 
+What is your biggest struggle in investing? What is your current experience on the stock market as a whole? What is your age? Does your portfolio value risk ( individual stocks make up the majority of your portfolio) that will pay off or is it more conservative (you have more board based ETFS, mutual funds, index funds on your portfolio)?
+We match you both with verified investors who have a track record of picking the right stocks as well as profiles with similar portfolios to you so you will know exactly what to do with your portfolio
+We show you what stocks are the most bought and sold that day, so you won’t have to go through long hours of research
+Link your brokerage portfolio to the app —> match you with verified investors with similar holdings who you can message and connect with
+You have been matched with two potential investors, congratulations you get a badge that will boost your profile views (for completing the onboarding process)
+Free trial: unlock unlimited quizzes and investing courses to boost your profile and get on the right side of investing as well as 
 
 ---
 
